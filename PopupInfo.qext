@@ -1,0 +1,9 @@
+{
+	"name": "PopupInfo",
+	"description": "For displaying custom popups",
+	"icon": "extension",
+	"type": "visualization",
+	"version": "1.0",
+	"author": "Amarnath",
+	"keywords": "qlik-sense, popup, info"
+}
